@@ -1,5 +1,0 @@
-1.First Install Python And Visual Studio Code 
-2.You Have To Install Selenium
-(pip install selenium)
-
-Done That's sit
